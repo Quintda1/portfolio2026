@@ -22,7 +22,7 @@ window.PROJECTS = [
     link: "4opeenrij.html"
   },
   {
-    title: "Klantenbeheer",
+    title: "Projectbord",
     description: "Klein hulpmiddel om openbare datasets te doorzoeken en te visualiseren als voorbereiding op ML-experimenten.",
     accent: "var(--yellow)",
     tags: ["HTML", "CSS", "Python"],
