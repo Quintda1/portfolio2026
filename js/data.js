@@ -40,6 +40,5 @@ window.SKILLS = [
   { name: "HTML & CSS", learning: false },
   { name: "JavaScript", learning: false },
   { name: "Python", learning: true },
-  { name: "Prompt engineering", learning: true },
   { name: "Machine learning basis", learning: true }
 ];
